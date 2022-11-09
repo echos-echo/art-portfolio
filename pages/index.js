@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-
+// this is the homepage of the app
 export default function Home() {
   return (
     <div className={styles.container}>
